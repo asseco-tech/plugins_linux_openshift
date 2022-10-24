@@ -1,6 +1,6 @@
 ## Description:
 
-Plugin [check_acp_ocp_node_avail_`<prefix>`.py](/plugins/check_acp_ocp_node_avail) which monitors the availability of an OpenShift cluster node.
+Plugin [check_acp_ocp_node_avail_`<prefix>`.py](https://github.com/asseco-tech/plugins_linux_openshift/tree/master/plugins/check_acp_ocp_node_avail) which monitors the availability of an OpenShift cluster node.
 
 > ###### `<prefix>` 
 >
@@ -77,4 +77,4 @@ object CheckCommand "check_ocp_node_avail" {
 
 #### Service
 
-![heck_acp_ocp_node_avail.png](/doc/images/check_acp_ocp_node_avail.png)
+![heck_acp_ocp_node_avail.png](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/images/check_acp_ocp_node_avail.png)

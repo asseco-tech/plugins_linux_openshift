@@ -1,6 +1,6 @@
 ## Description:
 
-Plugin [check_acp_ocp_cl_avail_` <prefix> `.py](/plugins/check_acp_ocp_cl_avail) which checks OpenShift cluster status.
+Plugin [check_acp_ocp_cl_avail_` <prefix> `.py](https://github.com/asseco-tech/plugins_linux_openshift/tree/master/plugins/check_acp_ocp_cl_avail) which checks OpenShift cluster status.
 
 
 
@@ -72,4 +72,4 @@ Plugin [check_acp_ocp_cl_avail_` <prefix> `.py](/plugins/check_acp_ocp_cl_avail)
 
 #### Service
 
-![heck_acp_ocp_cl_avail.png](/doc/images/check_acp_ocp_cl_avail.png)
+![heck_acp_ocp_cl_avail.png](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/images/check_acp_ocp_cl_avail.png)

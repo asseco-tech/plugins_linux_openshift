@@ -1,6 +1,6 @@
 ## Description:
 
-Plugin [check_acp_ocp_node_perf_`<prefix>`.py](/plugins/check_acp_ocp_node_perf) which monitors the performance of an OpenShift cluster node.
+Plugin [check_acp_ocp_node_perf_`<prefix>`.py](https://github.com/asseco-tech/plugins_linux_openshift/tree/master/plugins/check_acp_ocp_node_perf) which monitors the performance of an OpenShift cluster node.
 
 > ###### `<prefix>` 
 >
@@ -88,4 +88,4 @@ Plugin [check_acp_ocp_node_perf_`<prefix>`.py](/plugins/check_acp_ocp_node_perf)
 
 #### Service
 
-![heck_acp_ocp_node_perf.png](/doc/images/check_acp_ocp_node_perf.png)
+![heck_acp_ocp_node_perf.png](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/images/check_acp_ocp_node_perf.png)

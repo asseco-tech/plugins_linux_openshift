@@ -2,11 +2,11 @@
 
 
 
-1. [About](#about)
-2. [History](#history)
-3. [Requirements](#requirements)
-4. [License](#license)
-5. [Getting Started](#getting-started)
+1. [About](https://github.com/asseco-tech/plugins_linux_openshift#about)
+2. [History](https://github.com/asseco-tech/plugins_linux_openshift#history)
+3. [Requirements](https://github.com/asseco-tech/plugins_linux_openshift#requirements)
+4. [License](https://github.com/asseco-tech/plugins_linux_openshift#license)
+5. [Getting Started](https://github.com/asseco-tech/plugins_linux_openshift#getting-started)
 
 ### About
 
@@ -35,8 +35,8 @@ Read the installation and configuration instructions for monitoring plugins:
 
 | Plugin Name                                                  | Description                                                  |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| [check_acp_ocp_cl_avail](/doc/plugins/check_acp_ocp_cl_avail.md) | Cluster availability monitoring                              |
-| [check_acp_ocp_cl_perf](/doc/plugins/check_acp_ocp_cl_perf.md) | Cluster performance monitoring                               |
-| [check_acp_ocp_node_avail](/doc/plugins/check_acp_ocp_node_avail.md) | Monitoring the availability of the cluster node              |
-| [check_acp_ocp_node_perf](/doc/plugins/check_acp_ocp_node_perf.md) | Monitoring the performance of the cluster node               |
-| [check_acp_ocp_pod](/doc/plugins/check_acp_ocp_pod.md)       | Monitoring the availability and performance of the application container |
+| [check_acp_ocp_cl_avail](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/plugins/check_acp_ocp_cl_avail.md) | Cluster availability monitoring                              |
+| [check_acp_ocp_cl_perf](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/plugins/check_acp_ocp_cl_perf.md) | Cluster performance monitoring                               |
+| [check_acp_ocp_node_avail](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/plugins/check_acp_ocp_node_avail.md) | Monitoring the availability of the cluster node              |
+| [check_acp_ocp_node_perf](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/plugins/check_acp_ocp_node_perf.md) | Monitoring the performance of the cluster node               |
+| [check_acp_ocp_pod](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/plugins/check_acp_ocp_pod.md) | Monitoring the availability and performance of the application container |

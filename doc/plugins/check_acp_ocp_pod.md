@@ -1,6 +1,6 @@
 ## Description:
 
-Plugin [check_acp_ocp_pod_`<prefix>`.py](/plugins/check_acp_ocp_pod) which monitors the availability and performance of the application container.
+Plugin [check_acp_ocp_pod_`<prefix>`.py](https://github.com/asseco-tech/plugins_linux_openshift/tree/master/plugins/check_acp_ocp_pod) which monitors the availability and performance of the application container.
 
 > ###### `<prefix>` 
 >
@@ -108,5 +108,5 @@ Plugin [check_acp_ocp_pod_`<prefix>`.py](/plugins/check_acp_ocp_pod) which monit
 
 #### Service
 
-![heck_acp_ocp_pod.png](/doc/images/check_acp_ocp_pod.png)
+![heck_acp_ocp_pod.png](https://github.com/asseco-tech/plugins_linux_openshift/blob/master/doc/images/check_acp_ocp_pod.png)
 
